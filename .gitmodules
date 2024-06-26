@@ -1,0 +1,15 @@
+[submodule "CS61C-fa20-labs"]
+	path = CS61C-fa20-labs
+	url = git@github.com:cy-Yin/CS61C-fa20-labs.git
+[submodule "CS61C-fa20-proj1"]
+	path = CS61C-fa20-proj1
+	url = git@github.com:cy-Yin/CS61C-fa20-proj1.git
+[submodule "CS61C-fa20-proj2"]
+	path = CS61C-fa20-proj2
+	url = git@github.com:cy-Yin/CS61C-fa20-proj2.git
+[submodule "CS61C-fa20-proj3"]
+	path = CS61C-fa20-proj3
+	url = git@github.com:cy-Yin/CS61C-fa20-proj3.git
+[submodule "CS61C-fa20-proj4"]
+	path = CS61C-fa20-proj4
+	url = git@github.com:cy-Yin/CS61C-fa20-proj4.git
